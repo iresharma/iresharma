@@ -41,6 +41,8 @@
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+### List of things I have worked with
+
 ###### Version Control
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -52,6 +54,13 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-79589F?style=flat-square&logo=heroku)
 ![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-00d1b2?style=flat-square&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
+
+###### APIs I worked with
+![Twilio](https://img.shields.io/badge/-Twilioe-181717?style=flat-square&logo=twilio)
+![Stripe](https://img.shields.io/badge/-Stripe-79589F?style=flat-square&logo=stripe)
+![Instagram](https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram)
+![Swagger](https://img.shields.io/badge/-Swagger-181717?style=flat-square&logo=swagger)
 
 ### Some of my GitHub Stats
 <p>
