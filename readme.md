@@ -56,6 +56,4 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=iresharma&show_icons=true&theme=dark&line_height=40&count_private=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iresharma&theme=dark">
-    <codersrank-widget username="iresharma"></codersrank-widget>
 </p>
-<script src="https://profile.codersrank.io/widget/widget.js"></script>
