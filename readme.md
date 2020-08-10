@@ -57,10 +57,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
 
 ###### APIs I worked with
-![Twilio](https://img.shields.io/badge/-Twilioe-181717?style=flat-square&logo=twilio)
+![Twilio](https://img.shields.io/badge/-Twilio-181717?style=flat-square&logo=twilio)
 ![Stripe](https://img.shields.io/badge/-Stripe-79589F?style=flat-square&logo=stripe)
 ![Instagram](https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram)
 ![Swagger](https://img.shields.io/badge/-Swagger-181717?style=flat-square&logo=swagger)
+![Razorpay](https://img.shields.io/badge/-RazorPay-79589F?style=flat-square&logo=razorpay)
 
 ### Some of my GitHub Stats
 <p>
