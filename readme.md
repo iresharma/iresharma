@@ -13,6 +13,7 @@
 ### Tech Stacks
 
 ###### Learning
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
