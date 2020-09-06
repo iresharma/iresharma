@@ -62,6 +62,7 @@
 ![Instagram](https://img.shields.io/badge/-Instagram-181717?style=flat-square&logo=instagram)
 ![Swagger](https://img.shields.io/badge/-Swagger-181717?style=flat-square&logo=swagger)
 ![Socket.io](https://img.shields.io/badge/-Socket-181717?style=flat-square&logo=socket.io)
+![WhatsApp](https://img.shields.io/badge/-WhatsApp-1A6717?style=flat-square&logo=whatsapp)
 ![Razorpay](https://img.shields.io/badge/-RazorPay-79589F?style=flat-square&logo=razorpay)
 
 ### Some of my GitHub Stats
