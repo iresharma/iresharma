@@ -17,8 +17,7 @@
 ###### Learning
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![Electron.js](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=Electron)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
 
 ###### Front-End Stack
