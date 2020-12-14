@@ -12,6 +12,8 @@
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:iresh.sharma8@gmail.com)
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://iresharma.me/)
 
+#### I recently started writing blogs. Check out:- [watchireshstruggle.hashnode.dev](https://watchireshstruggle.hashnode.dev)
+
 ### Tech Stacks
 
 ###### Learning
