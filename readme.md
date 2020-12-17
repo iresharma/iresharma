@@ -21,16 +21,15 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Node.js)
 
 ###### Front-End Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Vue.js](https://img.shields.io/badge/-Vue-grey?style=flat-square&logo=Vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=Nuxt.js)
+![Flutter](https://img.shields.io/badge/-Flutter-2AB7F6?style=flat-square&logo=Flutter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Bulma](https://img.shields.io/badge/-Bulma-3273dc?style=flat-square&logo=bulma)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Vue.js](https://img.shields.io/badge/-Vue-grey?style=flat-square&logo=Vue.js)
-![Flutter](https://img.shields.io/badge/-Flutter-2AB7F6?style=flat-square&logo=Flutter)
 ![Svelte](https://img.shields.io/badge/-Svelte-purple?style=flat-square&logo=Svelte)
 
 ###### Back-End Stack
