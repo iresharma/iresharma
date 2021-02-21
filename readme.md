@@ -20,7 +20,6 @@
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Node.js)
 
 ###### Front-End Stack
@@ -37,8 +36,10 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![FaunaDB](https://img.shields.io/badge/-FaunaDB-white?style=flat-square&logo=faunadb)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
+![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
 
 ###### Languages
 
