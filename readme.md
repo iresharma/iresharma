@@ -19,7 +19,6 @@
 ###### Learning
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Node.js)
 
 ###### Front-End Stack
@@ -47,6 +46,8 @@
 ![Dart](https://img.shields.io/badge/-Dart-2AB7F6?style=flat-square&logo=Dart)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
 
 ### List of things I have worked with
 
