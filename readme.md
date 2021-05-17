@@ -79,8 +79,8 @@
 ### Some of my GitHub Stats
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=iresharma&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iresharma&theme=midnight-purple">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=iresharma&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iresharma&theme=midnight-purple">
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iresharma&theme=radical&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
