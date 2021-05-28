@@ -76,12 +76,39 @@
 ![WhatsApp](https://img.shields.io/badge/-WhatsApp-1A6717?style=flat-square&logo=whatsapp)
 ![Razorpay](https://img.shields.io/badge/-RazorPay-79589F?style=flat-square&logo=razorpay)
 
-### Some of my GitHub Stats
+# Github Activity <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50">
 
-<p>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=iresharma&show_icons=true&line_height=40&count_private=true&theme=midnight-purple">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iresharma&theme=midnight-purple">
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=iresharma&theme=highcontrast&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iresharma&theme=highcontrast"  display=block width=100% height=auto alt="3" align="right"></td>
+    
+   </tr> 
+   <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iresharma&theme=highcontrast&layout=compact"  display=block width=100% height=auto  alt="2" ></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=iresharma&custom_title=My%20Weekly%20Stats&layout=compact&theme=highcontrast" align="right" display=block width=100% height=auto  alt="4"  >
+  </td>
+  </tr>
+  <tr>
+    <td><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iresharma&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Harsh Avinash" />
+      </a></p></td><td>
+  <p align = "left" > Number of visits <br> 
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{iresharma}/count.svg) 
 </p>
+</td></tr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iresharma&theme=radical&column=7&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+</table>
+
+# Productivity Stats <img src="https://i.kym-cdn.com/photos/images/original/002/047/381/117.gif" width="50">:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-Avinash&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=Harsh-Avinash&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
 
