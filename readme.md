@@ -49,6 +49,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![GO](https://img.shields.io/badge/-GO-black?style=flat-square&logo=Go)
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 
 ### List of things I have worked with
 
