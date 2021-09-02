@@ -30,6 +30,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Bulma](https://img.shields.io/badge/-Bulma-3273dc?style=flat-square&logo=bulma)
 ![Svelte](https://img.shields.io/badge/-Svelte-purple?style=flat-square&logo=Svelte)
+![Webpack](https://img.shields.io/badge/-Webpack-white?style=flat-square&logo=Webpack)
 
 ###### Back-End Stack
 
