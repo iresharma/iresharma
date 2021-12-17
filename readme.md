@@ -18,7 +18,7 @@
 
 ###### Learning
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Node.js)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=Swift)
 
@@ -31,6 +31,7 @@
 ![Bulma](https://img.shields.io/badge/-Bulma-3273dc?style=flat-square&logo=bulma)
 ![Svelte](https://img.shields.io/badge/-Svelte-purple?style=flat-square&logo=Svelte)
 ![Webpack](https://img.shields.io/badge/-Webpack-white?style=flat-square&logo=Webpack)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ###### Back-End Stack
 
