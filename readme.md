@@ -3,7 +3,7 @@
 #### I am a third year Computer Science student at The National Institute of Engineering, Mysore.
 
 #### I freelance while working part time at [Exinous Technologies](https://www.exinous.com) as software developer.
-### Incoming SDE Intern [@twilio](https://twilio.com)'22
+### SDE R&D Intern CXP [@twilio](https://twilio.com)'22
 
 #### Connect with me on -
 
