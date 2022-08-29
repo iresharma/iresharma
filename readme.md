@@ -2,7 +2,7 @@
 
 #### I am a third year Computer Science student at The National Institute of Engineering, Mysore.
 
-#### I freelance while working part time at [Exinous Technologies](https://www.exinous.com) as software developer.
+#### I freelance while working part time at [Triomics](https://www.triomics.in) as software developer.
 ### SDE R&D Intern CXP [@twilio](https://twilio.com)'22
 
 #### Connect with me on -
