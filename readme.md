@@ -3,7 +3,7 @@
 #### I am a third year Computer Science student at The National Institute of Engineering, Mysore.
 
 #### I freelance while working part time at [Triomics](https://www.triomics.in) as software developer.
-### SDE R&D Intern CXP [@twilio](https://twilio.com)'22
+### Incoming SDE L1 [@twilio](https://twilio.com)'23
 
 #### Connect with me on -
 
