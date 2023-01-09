@@ -3,7 +3,7 @@
 #### I am a third year Computer Science student at The National Institute of Engineering, Mysore.
 
 #### I freelance while working part time at [Supertokens](https://www.supertokens.com) as software developer.
-### ~~Incoming SDE L1 [@twilio](https://twilio.com)'23~~ (Offer revoked, looking for opportunities)
+### Ex-[Twilio](https://twilio.com) Intern, Full Stack Engineer at [Supertokens](https://supertokens.com)
 
 #### Connect with me on -
 
