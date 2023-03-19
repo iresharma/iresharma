@@ -2,7 +2,7 @@
 
 #### I am a final year Computer Science student at The National Institute of Engineering, Mysore.
 
-#### I freelance while working part time at [Supertokens](https://www.supertokens.com) as software developer.
+#### I freelance while working at [Supertokens](https://www.supertokens.com) as Full Stack Engineer.
 ### Ex-[Twilio](https://twilio.com) Intern, Full Stack Engineer at [Supertokens](https://supertokens.com)
 
 #### Connect with me on -
