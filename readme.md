@@ -1,6 +1,6 @@
-# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px">,<br>I am Iresh Sharma.
+# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px">,<br>I am [Iresh Sharma](https://iresharma.com).
 
-#### I am a Computer Science undergrad from The National Institute of Engineering, Mysore.
+#### I am a fullstack software engineer.
 
 #### I freelance while working at [Twilio](https://www.twilio.com) as Software Developer Engineer (L2).
 ### Ex-[Supertokens](https://supertokens.com), Software Developer Engineer (L2) at [Twilio](https://twilio.com)
