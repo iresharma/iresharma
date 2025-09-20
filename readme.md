@@ -14,16 +14,5 @@
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://iresharma.com/)
 
 #### I recently started writing blogs. Check out:- [watchireshstruggle](https://blog.iresharma.com)
-
-# Github Activity <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50">
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=iresharma&theme=highcontrast"  display=block width=100% height=auto alt="3" align="right"></td>
-<td><a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iresharma&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Harsh Avinash" />
-      </a></td>
-   </tr> 
-
-</table>
+#### I also start a youtube channel. Check out:- [watchireshstruggle](https://www.youtube.com/@iresharma)
 
