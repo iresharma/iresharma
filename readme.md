@@ -2,8 +2,8 @@
 
 #### I am a Computer Science undergrad from The National Institute of Engineering, Mysore.
 
-#### I freelance while working at [Twilio](https://www.twilio.com) as Software Developer Engineer (l1).
-### Ex-[Supertokens](https://supertokens.com), Software Developer Engineer (l1) at [Twilio](https://twilio.com)
+#### I freelance while working at [Twilio](https://www.twilio.com) as Software Developer Engineer (L2).
+### Ex-[Supertokens](https://supertokens.com), Software Developer Engineer (L2) at [Twilio](https://twilio.com)
 
 #### Connect with me on -
 
