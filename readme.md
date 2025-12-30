@@ -2,8 +2,8 @@
 
 #### I am a fullstack software engineer.
 
-#### I freelance while working at [Twilio](https://www.twilio.com) as Software Developer Engineer (L2).
-### Ex-[Supertokens](https://supertokens.com), Software Developer Engineer (L2) at [Twilio](https://twilio.com)
+#### I freelance while working at [Salesforce](https://www.Salesforce.com) as Member of Technical Staff(L2).
+### Ex-[Supertokens](https://supertokens.com), Ex-[Twilio](https://twilio.com)
 
 #### Connect with me on -
 
